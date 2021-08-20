@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Fried Chicken",
+    "price": 30,
+    "photo": "chicken.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 2,
+    "name": "Grilled Chicken",
+    "price": 35,
+    "photo": "grilledChicken.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 3,
+    "name": "Chicken Burger",
+    "price": 25,
+    "photo": "friedChicken.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Biryani",
+    "price": 65,
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "name": "Biryani",
+    "price": 65,
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Biryani",
+    "price": 65,
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "name": "Lassi",
+    "price": 5,
+    "rating": 4.3
+  }
+]
